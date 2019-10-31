@@ -1,0 +1,8 @@
+#include <iostream>
+Using namespace std;
+int main ()
+{
+ Cout <<"welcome to the world of c++";
+ return 0;
+}
+
