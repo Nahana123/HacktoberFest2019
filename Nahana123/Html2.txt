@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>html</title>
+</head>
+<body bgcolor="blue">
+ Every success story is also a story of great failure.the only difference is that every time they failed they bounced back <BR>
+</body>
+</html>
+ 
