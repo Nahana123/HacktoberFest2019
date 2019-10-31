@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>html</title>
+</head>
+<body bgcolor="blue">
+ welome to the world of html
+</body>
+</html>
